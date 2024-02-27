@@ -1,0 +1,25 @@
+//Quality of life changes
+-button sounds
+-pop-up texts
+-animations
+-skins
+
+//Systems
+-inventory
+-different ammo types
+
+//Game play
+-upgrades
+-game modes
+-power ups   
+
+//Improve
+-balance
+-password encryption
+-change numbers into constant variables 
+
+//Stats
+     int critChance;
+    int critMultiplier;
+    boolean punchThrough;//false
+    double followThroughDamage;//10% ?

@@ -1,0 +1,4 @@
+bot5,password,5000,300,1000,10,500,0,1
+bot3,password,5000,600,800,10,500,0,3
+usernameqwe,password,15395,350,980,10,600,2,3
+Invalid username/,/Invalid password,619610,845,800,10,1050,13,7
